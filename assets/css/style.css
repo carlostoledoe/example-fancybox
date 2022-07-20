@@ -1,0 +1,13 @@
+body {
+    background-color: darkolivegreen;
+    color: azure;
+}
+
+h1 {
+    text-align: center;
+    padding: 3%;
+}
+
+.boton {
+    margin: 1%;
+}
